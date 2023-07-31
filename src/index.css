@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* thong tin */
+.thong-tin {
+  padding: 30px 0;
+}
+.thong-tin__title {
+  padding: 15px;
+  background-color: black;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 15px;
+}
+
+/* list sinh viên */
+.list-sinh-vien .btn-danger {
+  margin-right: 12px;
+}
